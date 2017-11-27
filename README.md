@@ -2,3 +2,5 @@
 Corpus Callosum Project for Spring 2017
 
 The "Sound" library for Processing will have to be downloaded if not already.
+
+Made by Adithya Bellathur and Thomas Psyhogeos
